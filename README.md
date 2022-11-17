@@ -14,3 +14,4 @@
 <b>7. Navigate to `localhost\iVaccinate--Hack30`</b><br>
 <b>8. Now click 'Sign Up' and register for it</b><br>
 <b>9. Now login with the same credentials to know your COVID risk score and vaccination priority.</b><br>
+hope you get the project
